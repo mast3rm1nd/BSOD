@@ -1,0 +1,5 @@
+F:\Dropbox\!Coding\All_in_one\BSOD\BSOD\bin\Debug\BSOD.exe
+F:\Dropbox\!Coding\All_in_one\BSOD\BSOD\bin\Debug\BSOD.pdb
+F:\Dropbox\!Coding\All_in_one\BSOD\BSOD\obj\Debug\BSOD.csprojResolveAssemblyReference.cache
+F:\Dropbox\!Coding\All_in_one\BSOD\BSOD\obj\Debug\BSOD.exe
+F:\Dropbox\!Coding\All_in_one\BSOD\BSOD\obj\Debug\BSOD.pdb
